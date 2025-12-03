@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+*.joblib
+*.h5
+*.db
+*.sqlite
+.streamlit/
